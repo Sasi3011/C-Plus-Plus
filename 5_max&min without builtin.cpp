@@ -2,7 +2,7 @@
 values without using built-in functions give in simle way*/
 
 #include <iostream>
-using namespace std;
+using namespace std;  
 
 void max_min(int arr[], int n, int &max, int &min)
 {
